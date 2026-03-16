@@ -27,3 +27,7 @@ The goal is to practice Git, GitHub, branches and merging.
 4. Connected the repository to GitHub
 5. Created a feature branch
 6. Updated the README file
+## Author
+
+Doruk Uslu  
+Student number: s35989
